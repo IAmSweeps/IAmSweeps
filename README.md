@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Kyle
 #### Manual and Automation Software QA
+##### "I don't break software. I shine a light on that which is already broken." - me
 I'm Kyle and I do Software QA. I have been performing Manual Testing for several years and dipping my toe in automation when I can. I love learning new languages, design patterns, and tools.
 
 **Skills:**
