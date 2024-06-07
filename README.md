@@ -22,9 +22,10 @@ I'm Kyle and I do Software QA. I have been performing Manual Testing for several
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IAmSweeps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-maxwell-5a737477/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/i_am_sweeps)  
 
-*Note: Top languages are not an indication of my skill in any one language. It shows what languages I have the most code on github.*
+*Note: Top languages are not an indication of my skill in any one language. It shows what languages I have the most code on GitHub.*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSweeps)](https://github.com/anuraghazra/github-readme-stats)
 
+*Note: Don't judge me too harshly for the stats below. They are my motivation to become more active on GitHub.*
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmSweeps&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=IAmSweeps)  
