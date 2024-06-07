@@ -1,9 +1,12 @@
-### Hi there 👋, my name is Kyle
-#### Manual and Automation Software QA
-##### "I don't break software. I shine a light on that which is already broken." - me
+# Hi, I'm Kyle Maxwell 👋🧑🏻‍💻
+## Manual and Automation Software QA
+ "I don't break software. I shine a light on that which is already broken." - me
+ 
 I'm Kyle and I do Software QA. I have been performing Manual Testing for several years and dipping my toe in automation when I can. I love learning new languages, design patterns, and tools.
 
-**Skills:**
+**Skills and Experience:**
+
+**Manual Testing:**  Integration / Functional / Exploratory / UAT / Regression / UI/UX Web / Mobile / and Windows Core Testing / Bug Tracking / Reporting
 
 **Languages:** TypeScript / C# / Java / HTML / CSS / JavaScript
 
@@ -12,13 +15,14 @@ I'm Kyle and I do Software QA. I have been performing Manual Testing for several
 **Tools:** Playwright / Selenium 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Playwright API testing in TypeScript 
+- 🌱 I’m currently learning API testing with Playwright in TypeScript 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I used to be a part of a local circus. 
+- ⚡ Fun fact: I used to be a part of a local circus. 🪀
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IAmSweeps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-maxwell-5a737477/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/i_am_sweeps)  
 
+*Note: Top languages are not an indication of my skill in any one language. It shows what languages I have the most code on github.*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSweeps)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmSweeps&show_icons=true)  
