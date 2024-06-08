@@ -6,21 +6,44 @@ I'm Kyle and I do Software QA. I have been performing Manual Testing for several
 
 **Skills and Experience:**
 
-**Manual Testing:**  Integration / Functional / Exploratory / UAT / Regression / UI/UX Web / Mobile / and Windows Core Testing / Bug Tracking / Reporting
+**Manual Testing:**  Integration / Functional / Exploratory / UAT / Regression / UI/UX Web / Mobile / Windows Core Testing / Bug Tracking / Reporting
 
-**Languages:** TypeScript / C# / Java / HTML / CSS / JavaScript
+**Languages:** 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="25" height="25"/>
+          
+          
 
-**Design Patterns:** Page Object Model (POM) 
+**Design Patterns:** 📄 Page Object Model (POM) 
 
-**Tools:** Playwright / Selenium 
-
+**Tools:** 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="25" height="25"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="25" height="25"/>
+           
+**Mobile Platforms/Browsers** 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="25" height="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" width="25" height="25"/>
+          
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning API testing with Playwright in TypeScript 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I used to be a part of a local circus. 🪀
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IAmSweeps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-maxwell-5a737477/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/i_am_sweeps)  
+### Connect with me on the web
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IAmSweeps) 
+          [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-maxwell-5a737477/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/i_am_sweeps)  
 
 *Note: Top languages are not an indication of my skill in any one language. It shows what languages I have the most code on GitHub.*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSweeps)](https://github.com/anuraghazra/github-readme-stats)
