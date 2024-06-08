@@ -57,12 +57,12 @@ I'm Kyle and I do Software QA. I have been performing Manual Testing for several
 ---
 ## **📊 Stats**
 *Note: Top languages are not an indication of my skill in any one language. It shows what languages I have the most code on GitHub.*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSweeps)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSweeps&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
 *Note: Don't judge me too harshly for the stats below. They are my motivation to become more active on GitHub.*
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmSweeps&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmSweeps&show_icons=true&theme=shadow_green)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=IAmSweeps)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=IAmSweeps&theme=shadow_green)  
 
 <details>
  <summary>
@@ -74,45 +74,3 @@ I'm Kyle and I do Software QA. I have been performing Manual Testing for several
 
  When I finally had a chance to write automated tests in a professional setting, I was hooked. This is what I am supposed to be doing, right now. Video games might still be in my future, but for now, I am happy to be ensuring that the quality of the software being released is the highest that I can help make it.
 </details> 
-
-### Table of Contents
-
-1. [Web Developer Bootcamp](https://github.com/IAmSweeps/KyleMaxwell/new/master#web-developer-bootcamp)
-1. [Java Masterclass](https://github.com/IAmSweeps/KyleMaxwell/new/master#java-masterclass)
-1. [Selenium with Java Masterclass](https://github.com/IAmSweeps/KyleMaxwell/new/master#selenium-with-java-masterclass)
-1. [Selenium with C#](https://github.com/IAmSweeps/KyleMaxwell/new/master#selenium-with-csharp)
-1. [C# Crash Course](https://github.com/IAmSweeps/KyleMaxwell/new/master#c-crash-course)
-1. [Git and Github Masterclass](https://github.com/IAmSweeps/KyleMaxwell/new/master#git-and-github-masterclass)
-1. [Selenium WebDriver Masterclass with C#](https://github.com/IAmSweeps/KyleMaxwell/new/master#selenium-webdriver-masterclass-with-csharp)
-
-# Web Developer Bootcamp
-
-I went through a Web Developer Bootcamp on uDemy where I learned a lot of topics, including:
-- HTML
-- CSS
-- Javascript
-- and more.
-
-**Visit the repository here for more**
-
-# Java Masterclass
-
-**Visit the repository here for more**
-
-# Selenium with Java Masterclass
-
-**Visit the repository here for more**
-
-# Selenium with C#
-
-**Visit the repository here for more**
-
-# C# Crash Course
-
-**Visit the repository here for more**
-
-# Git and GitHub Masterclass
-
-# Selenium WebDriver Masterclass with C#
-
-**Visit the repository here for more**
